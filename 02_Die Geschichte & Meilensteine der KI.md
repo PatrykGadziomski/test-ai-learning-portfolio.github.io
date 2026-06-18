@@ -1,3 +1,8 @@
+---
+layout: default
+title: Seitentitel
+---
+
 Die Geschichte der KI ist von durchzogen von KI-Wintern und KI-Frühlingen, also in Zeiträumen in denen gar nicht, oder heiß an KI Themen geforscht wird. Gerade befinde wir uns in einem anscheinend nie endeten KI-Frühling und das schon seit 2022... So ein Kreislauf ist eigentlich immer gleich: Es gibt Daten, aber für diese braucht man viel Rechenleistung, also wird diese gebaut, auf dieser Leistung können dann neue Algorithmen laufen, welche entwickelt/geschrieben werden müssen, das führt dann natürlich zu neuen Investitionen in diesem Bereich, was wiederum über Zeit zu noch mehr Daten führt, durch Menschen und das Internet, für welcher man wieder bessere/mehr Rechenleistung braucht... An dieser Stelle sollte klar sein wie es abläuft.
 
 Kommen wir nun zu der kleinen Geschichtsstunde :)
